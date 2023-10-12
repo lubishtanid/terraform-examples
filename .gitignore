@@ -1,2 +1,2 @@
-**/terraform.tfstate
-**/terraform.tfstate.backup
+terraform-examples/**/terraform.tfstate
+terraform-examples/**/terraform.tfstate.backup
